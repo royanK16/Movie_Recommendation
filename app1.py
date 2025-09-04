@@ -125,7 +125,8 @@ if final_data is not None:
                             poster_url = fetch_poster(movie_title)
                                     
                             with cols[j]:
-                                st.image(poster_url, use_container_width=True)
+                                st.image(poster_url, width='stretch')
                                 st.caption(movie_title)
             else:
                 st.info("No recommendations found for this movie. Please try a different title.")
+
