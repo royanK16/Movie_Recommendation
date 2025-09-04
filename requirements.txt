@@ -1,0 +1,12 @@
+streamlit
+nbformat
+PyDrive
+plotly
+wordcloud
+matplotlib
+pandas
+scikit-learn
+numpy
+pickle
+requests
+python-dotenv
