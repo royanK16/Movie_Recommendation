@@ -9,4 +9,3 @@ scikit-learn
 numpy
 pickle
 requests
-python-dotenv
