@@ -129,4 +129,3 @@ if final_data is not None:
                                 st.caption(movie_title)
             else:
                 st.info("No recommendations found for this movie. Please try a different title.")
-
